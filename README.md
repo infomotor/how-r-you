@@ -6,7 +6,7 @@
 
 [How-R-you WebSite](http://how-r-you.dk)
 
-[Company WebSite](https://infomotor.dk)
+[Company WebSite](http://infomotor.dk)
 
 # License
 
